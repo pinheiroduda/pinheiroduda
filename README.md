@@ -11,5 +11,5 @@ I keep looking for my evolution and embracing my transformations.
 <div>
  <a href="https://github.com/pinheiroduda">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pinheiroduda&theme=onedark&show_icons=true&count_private=true">
- <img height="180em" src="">    
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinheiroduda&theme=onedark&layout=compact">    
 </div>

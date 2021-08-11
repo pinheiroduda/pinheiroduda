@@ -7,3 +7,9 @@ I keep looking for my evolution and embracing my transformations.
 - 🌱 I’m currently learning JavaScript
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-pinheiro/)](https://www.linkedin.com/in/eduarda-pinheiro/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eduarda_pinheiro_/)](https://www.instagram.com/eduarda_pinheiro_/)
+
+<div>
+ <a href="https://github.com/pinheiroduda">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pinheiroduda&theme=onedark&show_icons=true&count_private=true">
+ <img height="180em" src="">    
+</div>

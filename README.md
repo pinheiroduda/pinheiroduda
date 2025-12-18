@@ -1,6 +1,5 @@
 ### Hi there, I'm Eduarda Pinheiro!
-I am a Computer Science student at Universidade do Vale do Rio dos Sinos. With three years of experience as a fullstack software engineer, I actively contribute to all stages of software development, from refinement to troubleshooting production issues.
-I keep looking for my evolution and embracing my transformations.
+I'm a Full-Stack Software Engineer with 4 years of experience working on international context, specialized in React JS, Node.js and AWS and with a Bachelor's Degree in Computer Science. I have a strong background in production support, cloud-based architectures and user-focused product development. I enjoy working end-to-end, from refinement to deployment.
 
 - 📍 Porto Alegre/RS - Brasil
 - 🌱 Full-stack developer working closely with ReactJS and Node.js. Currently expanding my knowledge of AWS
